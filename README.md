@@ -34,12 +34,7 @@ For locomotion tasks:
 
 
 For manipulation tasks:
-```bash
-cd manipulation
-git clone https://github.com/NathanWu7/isaacLab.manipulation.git
-cd isaacLab.manipulation
-python -m pip install -e .
-```
+
 
 ### 1.2 Genesis
 
